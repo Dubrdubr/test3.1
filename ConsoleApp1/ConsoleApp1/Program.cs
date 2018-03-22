@@ -20,6 +20,7 @@ namespace test2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             
 
 =======
@@ -31,6 +32,9 @@ namespace test2
 =======
             Console.WriteLine(a - b);
 >>>>>>> minus
+=======
+            Console.WriteLine(a * b);
+>>>>>>> umnojenie
         }
     }
 }
