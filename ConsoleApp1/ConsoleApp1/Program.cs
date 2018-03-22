@@ -17,7 +17,7 @@ namespace test2
 
             Console.WriteLine("Введите B");
             int b = int.Parse(Console.ReadLine());
-
+            Console.WriteLine(a + b);
         }
     }
 }
