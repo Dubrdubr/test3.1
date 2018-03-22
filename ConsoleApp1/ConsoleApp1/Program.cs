@@ -18,11 +18,15 @@ namespace test2
             Console.WriteLine("Введите B");
             int b = int.Parse(Console.ReadLine());
 <<<<<<< HEAD
+<<<<<<< HEAD
             
 
 =======
             Console.WriteLine(a + b);
 >>>>>>> plus
+=======
+            Console.WriteLine(a / b);
+>>>>>>> delenie
         }
     }
 }
