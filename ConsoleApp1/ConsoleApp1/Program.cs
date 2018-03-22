@@ -19,6 +19,7 @@ namespace test2
             int b = int.Parse(Console.ReadLine());
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             
 
 =======
@@ -27,6 +28,9 @@ namespace test2
 =======
             Console.WriteLine(a / b);
 >>>>>>> delenie
+=======
+            Console.WriteLine(a - b);
+>>>>>>> minus
         }
     }
 }
